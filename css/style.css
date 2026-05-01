@@ -1,0 +1,61 @@
+/* ------------------------------ */
+/* BASIC REQUIRED STYLES          */
+/* ------------------------------ */
+
+/* BODY */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    margin: 0;
+    background-color: #ffffff;
+    color: #222;
+}
+
+/* HEADER */
+header {
+    background-color: #003366;
+    color: white;
+    padding: 20px;
+}
+
+/* NAV */
+nav {
+    background-color: #005599;
+    padding: 10px;
+}
+
+nav ul {
+    padding: 0;
+    margin: 0;
+}
+
+nav li {
+    display: inline-block;
+    width: 120px;
+}
+
+/* MAIN */
+main {
+    background-color: #f0f0f0;
+    font-size: 18px;
+    padding: 20px;
+}
+
+/* FOOTER */
+footer {
+    background-color: #003366;
+    color: white;
+    padding: 15px;
+}
+
+/* HEADINGS */
+h1 {
+    text-align: center;
+    font-family: Georgia, serif;
+    color: #ffcc00;
+}
+
+/* PARAGRAPHS */
+p {
+    line-height: 1.6;
+}
